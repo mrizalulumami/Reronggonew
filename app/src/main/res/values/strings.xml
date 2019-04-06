@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Reronggo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="pilihan_kuota">
+        <item>2 GB</item>
+        <item>30 GB(Kuota malam)</item>
+        <item>50 GB</item>
+    </string-array>
+    <string-array name="pilihan_provider">
+        <item>XL</item>
+        <item>Telkomsel</item>
+        <item>Axis</item>
+    </string-array>
+    <string-array name="pilihan_uang">
+        <item>Rp. 5.000.000</item>
+        <item>Rp. 10.000.000</item>
+        <item>Rp. 50.000.000</item>
+    </string-array>
+</resources>
